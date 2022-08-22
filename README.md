@@ -1,6 +1,6 @@
 <img src="https://cdn.discordapp.com/attachments/881992907203178547/884964124449177650/tumblr_841f18a37f696f6fb081133978c84757_da1bdb06_400.gif" align="right" width="400" height="250">
 
-### Hi İm There Saga <img src="https://cdn.discordapp.com/emojis/881601062522454036.png?v=1" height="20px"></h2>
+### Hi İm There forcenxd <img src="https://cdn.discordapp.com/emojis/881601062522454036.png?v=1" height="20px"></h2>
 
 <p align="left">Selam, Ben forcenxd Discord Botları Yapıyorum Sende Ücretli Bir Şekilde Discord Botu Yaptırabilirsin
 
@@ -23,4 +23,4 @@
 
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/228915240786460672)](https://discord.com/users/852690897727914005)
+[![Discord Presence](https://lanyard.cnrad.dev/api/852690897727914005)](https://discord.com/users/852690897727914005)
